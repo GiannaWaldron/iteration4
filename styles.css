@@ -23,7 +23,7 @@ article {
     box-sizing: border-box;
     display: block;
     place-content: center;
-    font-family: Helvetica, sans-serif;
+    font-family: 'Cedarville Cursive', cursive;
     font-size: min(200%, 5vmin);
   }
   
@@ -34,7 +34,7 @@ article {
   h1 {
     font-size: 245px;
     line-height: 1.0;
-    font-family: 'Michroma', sans-serif;;
+    font-family:'Syncopate', sans-serif;
     max-inline-size: 15ch;
     margin: auto;
   }
@@ -51,13 +51,15 @@ article {
   }**/
   /**h6:hover{
     color: rgb(143, 18, 18);
+    color: rgb(236,178,161);
   }**/
   h6 {
-    font-family: 'Michroma', sans-serif;
+    font-family: 'Syncopate', sans-serif;
     font-size: 30px;
     text-align: center;
-    color: rgb(236,178,161);
+    color: rgb(143, 18, 18);
     display: flex;
+    line-height: 45px;
     align-items: center;
     justify-content: center;
     position: relative;
@@ -170,7 +172,7 @@ article {
   }
   
   p {
-    font-family: Helvetica, sans-serif;
+    font-family: 'Cedarville Cursive', cursive;
     margin-top: 1ch;
     line-height: 1.35;
     max-inline-size: 40ch;
